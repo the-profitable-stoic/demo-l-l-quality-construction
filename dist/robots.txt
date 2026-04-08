@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-l-l-quality-construction.dream-surge.com/sitemap-index.xml

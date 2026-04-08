@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "L & L Quality Construction",
+    "phone": "+19047751777",
+    "category": "window replacement company",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Jax's Window Replacement Experts",
+      "heroSubline": "Durable, energy-efficient windows built for Florida's climate. Serving Jacksonville, St. Augustine & Orange Park.",
+      "aboutTitle": "Quality You Can See Through",
+      "aboutText": [
+        "L & L Quality Construction started with a simple goal: to provide Jacksonville homeowners with window replacement services built on honesty and superior craftsmanship. We're not just contractors; we're your neighbors, committed to enhancing our community, one window at a time.",
+        "Our approach is straightforward. We assess your needs, provide clear, transparent pricing, and execute the job with precision and care. We use only premium materials designed to withstand Florida's harsh climate, from hurricane-force winds to relentless sun.",
+        "We believe in giving back to the community that supports us. L & L Quality Construction actively participates in local initiatives, supporting organizations that improve the lives of Jacksonville residents. We're invested in the long-term well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Built for Florida",
+          "description": "Windows engineered to withstand hurricanes, humidity, and intense sunlight."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures a perfect, airtight fit for maximum energy efficiency."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, no surprises. Just honest, upfront pricing you can trust."
+        },
+        {
+          "title": "Local Commitment",
+          "description": "We're Jacksonville locals dedicated to serving our neighbors with integrity."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Windows Today",
+      "ctaSubline": "Get a free, no-obligation quote and experience the L & L Quality Construction difference."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Enhance your home's beauty, security, and energy efficiency with our residential window replacement services.",
+        "description": "Florida homes need windows that can handle intense sun, humidity, and the occasional hurricane. At L & L Quality Construction, we specialize in residential window replacement, offering a wide selection of impact-resistant, energy-efficient windows designed to withstand Jacksonville's unique climate challenges. We work with various window styles, including double-hung, casement, sliding, and picture windows, ensuring a perfect match for your home's architecture and your personal preferences.\n\nOur expert team handles every aspect of the installation process, from precise measurements to careful removal of old windows and professional installation of new ones. We pay close attention to detail, ensuring a weather-tight seal that prevents drafts, leaks, and energy loss. We also offer a range of customization options, including frame colors, glass types, and hardware finishes, allowing you to create a look that complements your home's style.\n\nBeyond aesthetics, our window replacement services can significantly improve your home's energy efficiency, reducing your monthly utility bills and increasing its overall value. We use advanced window technologies that minimize heat transfer, keeping your home cooler in the summer and warmer in the winter. We also offer low-E glass options that block harmful UV rays, protecting your furniture and flooring from fading.",
+        "process": [
+          "Step 1: Consultation and Measurement - We assess your needs and take precise window measurements.",
+          "Step 2: Window Selection - Choose from our wide range of window styles and materials.",
+          "Step 3: Professional Installation - Our experienced team ensures a perfect, weather-tight fit.",
+          "Step 4: Cleanup and Inspection - We leave your home clean and conduct a final inspection to ensure your satisfaction."
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Home Security",
+          "Increased Property Value",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical window replacement project take?",
+            "answer": "Most residential window replacement projects can be completed in 1-3 days, depending on the number of windows being replaced and the complexity of the installation."
+          },
+          {
+            "question": "What types of windows are best for Florida's climate?",
+            "answer": "Impact-resistant windows with low-E glass coatings are ideal for Florida homes, as they provide superior protection against hurricanes, UV rays, and heat gain."
+          },
+          {
+            "question": "Do you offer financing options for window replacement?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "impact-window-installation",
+        "name": "Impact Window Installation",
+        "shortDescription": "Protect your home from hurricane damage with our expert impact window installation services.",
+        "description": "Living in Jacksonville means understanding the risks associated with hurricane season. Impact windows are a crucial investment for protecting your home and family from the devastating effects of strong winds and flying debris. L & L Quality Construction specializes in impact window installation, providing homeowners with durable, code-compliant windows that meet or exceed Florida's stringent building standards.\n\nOur impact windows are designed to withstand extreme weather conditions, featuring reinforced frames and laminated glass that resists shattering upon impact. We offer a variety of impact window styles, including single-hung, double-hung, casement, and sliding windows, ensuring a seamless integration with your home's existing architecture. Our experienced installers follow strict installation protocols to ensure that your impact windows are properly sealed and secured, providing maximum protection against wind and water intrusion.\n\nInvesting in impact windows not only protects your home from hurricane damage but also offers additional benefits, such as improved energy efficiency, reduced noise pollution, and increased home security. Our impact windows are designed to minimize heat transfer, keeping your home cooler in the summer and reducing your energy bills. They also provide an extra layer of security against intruders, making your home a safer and more comfortable place to live.",
+        "process": [
+          "Step 1: Assessment and Consultation - We evaluate your home's vulnerability to hurricane damage.",
+          "Step 2: Impact Window Selection - Choose from our range of impact-resistant window styles and features.",
+          "Step 3: Permitting and Installation - We handle all necessary permits and ensure code-compliant installation.",
+          "Step 4: Inspection and Certification - We provide documentation to verify compliance with local building codes."
+        ],
+        "benefits": [
+          "Hurricane Protection",
+          "Improved Security",
+          "Reduced Insurance Premiums",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of installing impact windows?",
+            "answer": "Impact windows provide superior protection against hurricane damage, improve home security, reduce noise pollution, and increase energy efficiency."
+          },
+          {
+            "question": "Are impact windows required by building codes in Jacksonville?",
+            "answer": "Building codes in Jacksonville may require impact windows in certain areas or for new construction. Our team can help you determine if impact windows are required for your home."
+          },
+          {
+            "question": "How do impact windows differ from regular windows?",
+            "answer": "Impact windows are designed with reinforced frames and laminated glass that can withstand high winds and flying debris, while regular windows are more susceptible to damage."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair-services",
+        "name": "Window Repair Services",
+        "shortDescription": "Extend the life of your windows with our professional repair services.",
+        "description": "Even the best windows can experience wear and tear over time. From cracked glass to faulty hardware, window problems can compromise your home's energy efficiency, security, and curb appeal. L & L Quality Construction offers comprehensive window repair services to address a wide range of issues, saving you the cost of full window replacement.\n\nOur skilled technicians are equipped to handle various window repairs, including glass replacement, sash repair, frame repair, and hardware replacement. We use high-quality materials and proven techniques to restore your windows to their optimal condition. Whether you have a broken window pane, a drafty window seal, or a malfunctioning window lock, we can provide a cost-effective solution.\n\nWe understand that window problems can be disruptive and inconvenient. That's why we offer prompt and reliable repair services to minimize the impact on your daily life. Our team will assess the damage, provide a clear and transparent estimate, and complete the repairs efficiently and effectively. We are committed to providing long-lasting solutions that restore your windows' functionality and beauty.",
+        "process": [
+          "Step 1: Inspection and Diagnosis - We identify the root cause of your window problems.",
+          "Step 2: Repair Estimate - We provide a detailed estimate for the necessary repairs.",
+          "Step 3: Professional Repair - Our skilled technicians complete the repairs with precision and care.",
+          "Step 4: Quality Assurance - We ensure that the repairs meet our high standards of quality."
+        ],
+        "benefits": [
+          "Cost-Effective Solutions",
+          "Extended Window Lifespan",
+          "Improved Energy Efficiency",
+          "Enhanced Security"
+        ],
+        "faq": [
+          {
+            "question": "What types of window repairs do you offer?",
+            "answer": "We offer a wide range of window repairs, including glass replacement, sash repair, frame repair, hardware replacement, and seal repair."
+          },
+          {
+            "question": "How do I know if my windows need repair?",
+            "answer": "Signs that your windows may need repair include drafts, leaks, condensation, cracked glass, and difficulty opening or closing the windows."
+          },
+          {
+            "question": "Is it more cost-effective to repair or replace my windows?",
+            "answer": "In many cases, repairing your windows is more cost-effective than replacing them. However, if your windows are severely damaged or outdated, replacement may be the better option."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-services",
+        "name": "Commercial Window Services",
+        "shortDescription": "Enhance your business with durable, energy-efficient commercial window solutions.",
+        "description": "L & L Quality Construction provides comprehensive commercial window services to businesses throughout Jacksonville and surrounding areas. We understand the unique needs of commercial properties, offering a range of window solutions designed to enhance aesthetics, improve energy efficiency, and increase security.\n\nOur commercial window services include window replacement, repair, and new construction installation. We work with a variety of window types, including storefront windows, curtain wall systems, and punched windows, ensuring a perfect fit for your building's architecture and your business's requirements. We use high-quality materials that meet or exceed industry standards, providing long-lasting performance and durability.\n\nWe understand that minimizing disruption is crucial for commercial projects. Our experienced team works efficiently and effectively to complete projects on time and within budget. We also prioritize safety, adhering to strict safety protocols to protect our workers and your property. Whether you need to replace a single window or install windows for a new commercial building, L & L Quality Construction is your trusted partner.",
+        "process": [
+          "Step 1: Site Assessment and Consultation - We evaluate your commercial property's window needs.",
+          "Step 2: Window Selection and Design - We help you choose the right windows for your building's style and requirements.",
+          "Step 3: Permitting and Installation - We handle all necessary permits and ensure code-compliant installation.",
+          "Step 4: Project Management and Quality Control - We manage the project from start to finish, ensuring quality and efficiency."
+        ],
+        "benefits": [
+          "Improved Building Aesthetics",
+          "Enhanced Energy Efficiency",
+          "Increased Security",
+          "Reduced Operating Costs"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial window services do you offer?",
+            "answer": "We offer a wide range of commercial window services, including window replacement, repair, new construction installation, and window maintenance."
+          },
+          {
+            "question": "Do you offer energy-efficient window options for commercial buildings?",
+            "answer": "Yes, we offer a variety of energy-efficient window options that can help reduce your building's energy consumption and lower your operating costs."
+          },
+          {
+            "question": "How do you minimize disruption during commercial window projects?",
+            "answer": "We work efficiently and effectively to complete projects on time and within budget, minimizing disruption to your business operations."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-design",
+        "name": "Custom Window Design & Installation",
+        "shortDescription": "Create unique window solutions tailored to your specific architectural vision.",
+        "description": "For homeowners and businesses seeking a truly unique aesthetic, L & L Quality Construction offers custom window design and installation services. We work closely with you to create windows that perfectly complement your architectural style and meet your specific functional needs. From oversized windows to unique shapes and designs, we can bring your vision to life.\n\nOur custom window design process begins with a thorough consultation to understand your goals and preferences. We then work with our team of skilled designers and fabricators to create detailed plans and specifications. We use only the highest quality materials and advanced manufacturing techniques to ensure that your custom windows are both beautiful and durable.\n\nOur experienced installation team handles every aspect of the installation process, ensuring a perfect fit and a seamless integration with your building's existing structure. We pay close attention to detail, ensuring that your custom windows not only look stunning but also provide optimal performance in terms of energy efficiency, security, and weather resistance.",
+        "process": [
+          "Step 1: Design Consultation - We discuss your vision and architectural requirements.",
+          "Step 2: Design and Fabrication - We create detailed plans and fabricate your custom windows.",
+          "Step 3: Installation - Our skilled team ensures a perfect fit and seamless integration.",
+          "Step 4: Final Inspection - We verify that your custom windows meet your expectations."
+        ],
+        "benefits": [
+          "Unique Architectural Design",
+          "Personalized Window Solutions",
+          "Enhanced Curb Appeal",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom window designs do you offer?",
+            "answer": "We offer a wide range of custom window designs, including oversized windows, unique shapes, custom colors, and specialty glass options."
+          },
+          {
+            "question": "What is the process for designing and installing custom windows?",
+            "answer": "Our custom window design and installation process begins with a consultation, followed by design and fabrication, installation, and a final inspection."
+          },
+          {
+            "question": "How long does it take to design and install custom windows?",
+            "answer": "The timeline for designing and installing custom windows varies depending on the complexity of the project. We will provide you with a detailed timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "energy-efficient-window-upgrades",
+        "name": "Energy-Efficient Window Upgrades",
+        "shortDescription": "Lower your energy bills and improve comfort with our energy-efficient window upgrades.",
+        "description": "Jacksonville's hot and humid climate can take a toll on your energy bills, especially if your windows are outdated or inefficient. L & L Quality Construction offers energy-efficient window upgrades that can significantly reduce your energy consumption and improve your home's comfort. We specialize in installing windows with advanced features, such as low-E glass, insulated frames, and airtight seals, that minimize heat transfer and reduce drafts.\n\nOur energy-efficient window upgrades can help you save money on your monthly utility bills, reduce your carbon footprint, and create a more comfortable living environment. We offer a variety of energy-efficient window options to suit your budget and style preferences. Our team can help you choose the right windows for your home and provide expert installation services that ensure optimal performance.\n\nInvesting in energy-efficient windows is a smart way to improve your home's value and reduce your environmental impact. Our windows are designed to meet or exceed Energy Star standards, providing you with long-lasting energy savings and peace of mind.",
+        "process": [
+          "Step 1: Energy Audit - We assess your home's energy efficiency and identify areas for improvement.",
+          "Step 2: Window Selection - We help you choose energy-efficient windows that meet your needs and budget.",
+          "Step 3: Professional Installation - Our experienced team ensures a perfect, airtight fit.",
+          "Step 4: Energy Savings Verification - We help you track your energy savings and verify the performance of your new windows."
+        ],
+        "benefits": [
+          "Reduced Energy Bills",
+          "Improved Home Comfort",
+          "Lower Carbon Footprint",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can help you save money on your monthly utility bills, reduce your carbon footprint, and create a more comfortable living environment."
+          },
+          {
+            "question": "How do I know if my windows are energy-efficient?",
+            "answer": "Signs that your windows may not be energy-efficient include drafts, condensation, and high energy bills."
+          },
+          {
+            "question": "What is low-E glass?",
+            "answer": "Low-E glass is a type of glass that has a special coating to reduce heat transfer and block harmful UV rays."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Augustine",
+        "slug": "st-augustine-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction is proud to offer window replacement services to the historic city of St. Augustine, Florida. With its unique Spanish Colonial architecture, St. Augustine requires a careful approach to window replacement, ensuring that any new windows complement the existing aesthetic of your home. We understand the importance of preserving the historical character of St. Augustine while providing modern energy efficiency and weather protection. Our team has experience working with the specific window styles commonly found in the area, from casement windows to double-hung windows. \n\nSt. Augustine's hot and humid summers make energy-efficient windows a must. L & L Quality Construction offers a wide selection of windows designed to keep your home cool and comfortable while reducing your energy bills. We can help you choose the right window materials and features, such as low-E coatings and insulated frames, to maximize energy savings and protect your home from the elements. We're committed to providing St. Augustine homeowners with exceptional service and quality workmanship.",
+        "localContext": "St. Augustine is known for its historic Spanish Colonial architecture and experiences hot, humid summers, requiring windows that are both aesthetically appropriate and energy efficient.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Palm Coast",
+          "Fruit Cove"
+        ]
+      },
+      {
+        "city": "Orange Park",
+        "slug": "orange-park-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction provides professional window replacement services to homeowners in Orange Park, Florida. Characterized by its 1970s and 80s suburban ranch homes, Orange Park presents a unique opportunity to enhance the curb appeal and energy efficiency of these classic residences. Whether you're looking to update your home's style or reduce your energy bills, L & L Quality Construction can help. We offer a wide range of window styles and materials to suit any budget and design preference.\n\nOrange Park residents understand the importance of having durable and energy-efficient windows that can withstand the Florida climate. L & L Quality Construction is dedicated to providing top-quality window installations that will protect your home from the elements and improve its overall value. We pride ourselves on our attention to detail and commitment to customer satisfaction. From initial consultation to final installation, we'll work closely with you to ensure that your window replacement project is a success.",
+        "localContext": "Orange Park features many 1970s-80s suburban ranch homes that benefit from window upgrades, especially given the hot, humid summers.",
+        "nearbyAreas": [
+          "Jacksonville",
+          "Middleburg",
+          "Bellair-Meadowbrook Terrace"
+        ]
+      },
+      {
+        "city": "Jacksonville",
+        "slug": "jacksonville-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction is Jacksonville's premier window replacement company. We understand the unique needs of Jacksonville homeowners, from the historic districts to the modern suburbs. Whether you're looking to improve energy efficiency, enhance your home's curb appeal, or simply replace old, drafty windows, we have the perfect solution for you. We offer a wide selection of window styles, materials, and colors to match any architectural style and budget.",
+        "localContext": "Jacksonville is a large, diverse city with a wide range of architectural styles, demanding a versatile window replacement approach.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Atlantic Beach",
+          "Neptune Beach"
+        ]
+      },
+      {
+        "city": "Atlantic Beach",
+        "slug": "atlantic-beach-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction provides window replacement services in Atlantic Beach, FL. As a coastal community, Atlantic Beach homes face unique challenges from salt air and harsh weather. We specialize in durable, weather-resistant windows that can withstand the elements and protect your home. We offer impact-resistant windows, energy-efficient options, and a variety of styles to complement your beachside home.",
+        "localContext": "Atlantic Beach's coastal environment requires durable, weather-resistant windows, especially those that can withstand salt air.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Jacksonville Beach",
+          "Jacksonville"
+        ]
+      },
+      {
+        "city": "Neptune Beach",
+        "slug": "neptune-beach-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction offers expert window replacement services in Neptune Beach, FL. Located near the ocean, Neptune Beach homes require windows that can withstand the coastal climate. We offer a variety of window options, including impact-resistant windows and energy-efficient windows, to protect your home from the elements and reduce energy costs. Our team will work closely with you to choose the right windows for your needs and budget.",
+        "localContext": "Being a coastal community, Neptune Beach requires windows that are resilient to salt, wind, and potential storm damage.",
+        "nearbyAreas": [
+          "Atlantic Beach",
+          "Jacksonville Beach",
+          "Jacksonville"
+        ]
+      },
+      {
+        "city": "Jacksonville Beach",
+        "slug": "jacksonville-beach-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction is your trusted provider for window replacement in Jacksonville Beach, FL. We understand the demands of coastal living and offer window solutions that are both beautiful and durable. Our team can help you choose the perfect windows to enhance your home's style and protect it from the elements. We offer a wide range of window styles, including impact-resistant windows, energy-efficient windows, and custom designs.",
+        "localContext": "Jacksonville Beach's beachside location necessitates windows that can endure salt, storms, and strong sunlight.",
+        "nearbyAreas": [
+          "Neptune Beach",
+          "Atlantic Beach",
+          "Ponte Vedra Beach"
+        ]
+      },
+      {
+        "city": "Ponte Vedra Beach",
+        "slug": "ponte-vedra-beach-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction is proud to serve the Ponte Vedra Beach community with exceptional window replacement services. We understand that Ponte Vedra Beach homeowners value both style and functionality, and we offer a wide range of premium window options to meet their needs. From energy-efficient windows to impact-resistant windows, we have the perfect solution to enhance your home's beauty and protect it from the elements.\n\nOur team is committed to providing the highest level of customer service and quality workmanship. We'll work closely with you to choose the right windows for your home and ensure that they are installed properly and efficiently. We pride ourselves on our attention to detail and commitment to customer satisfaction.",
+        "localContext": "Ponte Vedra Beach is known for its upscale homes, requiring high-quality and aesthetically pleasing window solutions.",
+        "nearbyAreas": [
+          "Jacksonville Beach",
+          "Nocatee",
+          "Palm Valley"
+        ]
+      },
+      {
+        "city": "Palm Coast",
+        "slug": "palm-coast-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction provides reliable window replacement services to the Palm Coast area. Palm Coast homes benefit from energy-efficient windows that can withstand the Florida heat and humidity. We offer a variety of window styles and materials to match any home's architecture and budget. Our experienced team will ensure a seamless installation process from start to finish.",
+        "localContext": "Palm Coast experiences warm temperatures and high humidity, making energy-efficient windows a priority for homeowners.",
+        "nearbyAreas": [
+          "St. Augustine",
+          "Bunnell",
+          "Flagler Beach"
+        ]
+      },
+      {
+        "city": "Middleburg",
+        "slug": "middleburg-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction offers professional window replacement services in Middleburg, FL. Middleburg's blend of rural and suburban living means homeowners value both affordability and quality. We offer a wide range of window options to suit any budget and design preference. Our team is dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Middleburg offers a mix of rural and suburban homes, requiring a balance of affordability and quality in window replacement solutions.",
+        "nearbyAreas": [
+          "Orange Park",
+          "Green Cove Springs",
+          "Lake Asbury"
+        ]
+      },
+      {
+        "city": "Green Cove Springs",
+        "slug": "green-cove-springs-fl",
+        "state": "FL",
+        "content": "L & L Quality Construction is your local expert for window replacement in Green Cove Springs, FL. Green Cove Springs is known for its historic charm and family-friendly atmosphere. We offer a variety of window styles and materials to complement the town's unique character and meet the needs of its residents. Our team is committed to providing exceptional service and quality workmanship.",
+        "localContext": "Green Cove Springs maintains a historic charm, requiring window replacements that respect the town's aesthetic.",
+        "nearbyAreas": [
+          "Middleburg",
+          "Fleming Island",
+          "Penney Farms"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Impact Window Installation",
+        "text": "L & L Quality Construction did an outstanding job installing impact windows in my home. Living so close to Jacksonville Beach, I wanted the best protection possible. The team was professional, efficient, and the windows look fantastic! I feel much safer now during hurricane season. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Residential Window Replacement",
+        "text": "We had L & L replace all the windows in our San Marco home. The price was fair, and the crew was very respectful of our property. There were a couple of minor hiccups with the installation, but they were quick to address them and ensure we were satisfied. Windows look great!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica S.",
+        "rating": 5,
+        "service": "Window Repair Services",
+        "text": "I had a broken window pane after a recent storm. L & L was able to quickly replace it at a reasonable price. Their technician was friendly and professional. I appreciated their prompt service and attention to detail.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Energy-Efficient Window Upgrades",
+        "text": "After getting multiple quotes, we went with L & L to upgrade our windows with energy-efficient models. The difference is noticeable! Our house feels cooler, and our electric bill has already decreased. The crew was professional and cleaned up everything perfectly.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Ashley K.",
+        "rating": 4,
+        "service": "Commercial Window Services",
+        "text": "L & L replaced the windows at my small business on Beach Blvd. The whole process was smooth and efficient. The new windows look great and have improved the curb appeal of my shop. Would definitely use them again.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Brian L.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Great experience from start to finish. The sales team was knowledgeable and helpful, and the installation crew was top-notch. They replaced all the windows in my Mandarin home and did a fantastic job. I highly recommend L & L Quality Construction.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "L & L Quality Construction | Jacksonville Windows",
+        "description": "Jacksonville's trusted window replacement experts. Impact windows, energy-efficient upgrades, and expert installation. Free quotes!"
+      },
+      "about": {
+        "title": "About L & L Quality Construction",
+        "description": "Learn about L & L Quality Construction, Jacksonville's premier window replacement company. Commitment to quality & community."
+      },
+      "services": {
+        "title": "L & L Quality Construction Services",
+        "description": "Window replacement, impact windows, window repair, commercial services, & custom designs. Serving Jacksonville, FL."
+      },
+      "contact": {
+        "title": "Contact L & L Quality Construction",
+        "description": "Get a free quote for window replacement or repair in Jacksonville, FL. Call +19047751777 or fill out our online form."
+      },
+      "reviews": {
+        "title": "L & L Quality Construction Reviews",
+        "description": "Read reviews from satisfied L & L Quality Construction customers in Jacksonville, FL. See why we're the trusted choice for window replacement."
+      },
+      "service-areas": {
+        "title": "L & L Quality Construction Service Areas",
+        "description": "L & L Quality Construction provides window services throughout Jacksonville, St. Augustine, and Orange Park, FL."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "impact-window-installation": "/images/service-impact-window-installation.webp",
+      "window-repair-services": "/images/service-window-repair-services.webp",
+      "commercial-window-services": "/images/service-commercial-window-services.webp",
+      "custom-window-design": "/images/service-custom-window-design.webp",
+      "energy-efficient-window-upgrades": "/images/service-energy-efficient-window-upgrades.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "impact-window-installation": {
+        "src": "/images/service-impact-window-installation.webp",
+        "srcset": "/images/service-impact-window-installation-400w.webp 400w, /images/service-impact-window-installation-800w.webp 800w, /images/service-impact-window-installation-1200w.webp 1200w, /images/service-impact-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair-services": {
+        "src": "/images/service-window-repair-services.webp",
+        "srcset": "/images/service-window-repair-services-400w.webp 400w, /images/service-window-repair-services-800w.webp 800w, /images/service-window-repair-services-1200w.webp 1200w, /images/service-window-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-services": {
+        "src": "/images/service-commercial-window-services.webp",
+        "srcset": "/images/service-commercial-window-services-400w.webp 400w, /images/service-commercial-window-services-800w.webp 800w, /images/service-commercial-window-services-1200w.webp 1200w, /images/service-commercial-window-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-design": {
+        "src": "/images/service-custom-window-design.webp",
+        "srcset": "/images/service-custom-window-design-400w.webp 400w, /images/service-custom-window-design-800w.webp 800w, /images/service-custom-window-design-1200w.webp 1200w, /images/service-custom-window-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "energy-efficient-window-upgrades": {
+        "src": "/images/service-energy-efficient-window-upgrades.webp",
+        "srcset": "/images/service-energy-efficient-window-upgrades-400w.webp 400w, /images/service-energy-efficient-window-upgrades-800w.webp 800w, /images/service-energy-efficient-window-upgrades-1200w.webp 1200w, /images/service-energy-efficient-window-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
